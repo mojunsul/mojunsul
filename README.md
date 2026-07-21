@@ -58,9 +58,9 @@
 
 ## 💼 Experience & Education
 
-| Period | Organization | Role & Detail |
+| Organization | Role & Detail | Period |
 | :--- | :--- | :--- |
-| **2026.07.07 – Present** | **SSAFY** | **삼성청년SW AI아카데미**<br>AI와 자바 및 스프링 기반 백엔드 프로젝트 수행 및 CS 심화 학습 |
+| **SSAFY** | **삼성청년SW AI아카데미**<br>AI와 자바 및 스프링 기반 백엔드 프로젝트 수행 및 CS 심화 학습 | **2026.07.07 – Present** |
 
 <br/>
 
