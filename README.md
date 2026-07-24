@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&height=70&lines=Backend+Developer;Java+%26+Spring+Boot+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&height=70&lines=Backend+Developer;Java+%26+SSAFY" alt="Typing SVG" />
 </a>
 
 <h3>안녕하세요, 기본기를 탄탄히 다지며 차근차근 성장하는 백엔드 개발자입니다.</h3>
