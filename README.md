@@ -32,7 +32,7 @@
 
 <div align="left">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mojunsul)](https://solved.ac/profile/mojunsul)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mojunsul)](https://solved.ac/profile/sdg2435)
 
 </div>
 
